@@ -1,4 +1,4 @@
 # com.trello
 
-Its java,webdriver,cucumber projetwith maven.
-Just run test target of pom.xml or run testng.xml file as testng to run the test cases.
+Its java,webdriver,cucumber projet with maven and  TestNG
+Just run test target of pom.xml or run testng.xml file as TestNg to run the test cases.
