@@ -1,0 +1,14 @@
+<Environment>
+    <Setup>
+        <IP>trello.com</IP>
+       
+    </Setup>
+    <Users>
+        <AdminUser>
+            <username>Sahinakausar@gmail.com</username>
+            <pwd>11Shahina@</pwd>
+           
+        </AdminUser>
+    </Users>
+    <browser>chrome</browser>
+</Environment>

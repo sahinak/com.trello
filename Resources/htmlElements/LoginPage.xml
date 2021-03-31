@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<root>
+
+
+    <UserNameTextIO>
+        <key>Xpath</key>
+        <value>//*[@id="user"]</value>
+    </UserNameTextIO>
+
+    <PasswordText>
+        <key>Xpath</key>
+        <value>//*[@id="password"]</value>
+    </PasswordText>
+
+    <LoginButton>
+        <key>Xpath</key>
+        <value>//*[@id="login"]</value>
+    </LoginButton>
+    
+    <LoginSubmitButton>
+        <key>Xpath</key>
+        <value> //*[@id="login-submit"]</value>
+    </LoginSubmitButton>
+   
+
+    <Board>
+        <key>Xpath</key>
+        <value>//div[@title='TESTSK']</value>
+        </Board>
+
+    <AddACard>
+        <key>Xpath</key>
+        <value>//*[@id="board"]/div[1]/div/div[3]/a</value>
+    </AddACard>
+
+   <GiveName>
+     <key>Xpath</key>
+        <value>//*[@id="board"]/div[1]/div/div[2]/div/div[2]/div[1]/input</value>
+   </GiveName>
+
+   <SaveCard>
+        <key>Xpath</key>
+        <value>//*[@id="board"]/div[1]/div/div[2]/div/div[2]/div[1]/input</value>
+    </SaveCard>
+    
+      <CardPresent>
+        <key>Xpath</key>
+        <value>//*[@id="chrome-container"]/div[7]/div/div[1]/div[3]</value>
+    </CardPresent>
+    
+
+   
+
+</root>
