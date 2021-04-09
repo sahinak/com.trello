@@ -17,3 +17,5 @@ WORKDIR /build/
 #Command to compile and package the application
 ENV MAVEN_OPTS="-Xms2G -Djansi.passthrough=true"
 RUN mvn -ntp test
+
+ENTRYPOINT ["mvn", "-ntp", "test"]
